@@ -91,7 +91,7 @@ lib/
 ### Installation
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/nextalk-flutter-chat.git
+   git clone [https://github.com/yourusername/nextalk-flutter-chat.git](https://github.com/M-Attaullah/Chat-App)
    cd nextalk-flutter-chat
    ```
    
