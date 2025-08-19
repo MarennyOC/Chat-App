@@ -1,4 +1,4 @@
-# 💬 NexTalk – Modern Flutter Chat Application With Firebase & WhatsApp-Style UI
+# 💬 NexTalk – Modern Flutter Chat Application
 
 ## 🚀 Project Overview
 
