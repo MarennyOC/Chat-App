@@ -91,8 +91,8 @@ lib/
 ### Installation
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/yourusername/nextalk-flutter-chat.git](https://github.com/M-Attaullah/Chat-App)
-   cd nextalk-flutter-chat
+   git clone https://github.com/M-Attaullah/Chat-App.git
+   cd Chat-App
    ```
    
 2. **Install dependencies**
@@ -155,4 +155,4 @@ Feel free to connect or contribute to this project.
 
 ---
 
-> 📌 *This app was developed as part of a Flutter development project showcasing MVVM architecture, state management, and local database integration.*
+> 📌 *This app was developed as part of a Flutter development project showcasing MVVM architecture, Firebase integration, and modern UI design with real-time messaging capabilities.*
