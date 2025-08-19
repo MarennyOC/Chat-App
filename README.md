@@ -21,7 +21,7 @@
 
 ## 📱 Screenshots
 
-| Login Screen | Chat List | Chat Detail | Theme Toggle |
+| Login Screen | Chat List | Chat Detail | Light/Dark Themes |
 |--------------|-----------|-------------|--------------|
 | ![Login](screenshots/login-screen.png) | ![Chat_List](screenshots/chat-list.png) | ![Chat_Detail](screenshots/chat-detail.png) | ![Themes](screenshots/theme-toggle.png) |
 
